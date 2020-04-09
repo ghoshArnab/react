@@ -62,7 +62,7 @@
     "sauce-tunnel": "~1.1.0",
     "tmp": "~0.0.18",
     "typescript": "^3.8.3",
-    "uglify-js": "~2.4.0",
+    "uglify-js": "~3.8.1",
     "uglifyify": "^3.0.1",
     "wd": "~0.2.6"
   },
