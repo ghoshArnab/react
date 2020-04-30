@@ -60,7 +60,7 @@
     "populist": "~0.1.6",
     "recast": "^0.9.11",
     "sauce-tunnel": "~1.1.0",
-    "tmp": "~0.0.18",
+    "tmp": "~0.2.1",
     "typescript": "^3.8.3",
     "uglify-js": "~3.8.1",
     "uglifyify": "^3.0.1",
