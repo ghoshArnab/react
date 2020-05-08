@@ -55,7 +55,7 @@
     "jasmine-tapreporter": "~0.2.2",
     "jest-cli": "^0.2.1",
     "optimist": "~0.6.0",
-    "phantomjs": "~1.9",
+    "phantomjs": "~2.1",
     "platform": "^1.1.0",
     "populist": "~0.1.6",
     "recast": "^0.9.11",
