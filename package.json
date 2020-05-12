@@ -37,7 +37,7 @@
     "coffee-script": "^1.8.0",
     "coverify": "~1.5.1",
     "derequire": "^2.1.0",
-    "envify": "^3.0.0",
+    "envify": "^4.1.0",
     "es3ify": "~0.1.2",
     "es5-shim": "^4.0.0",
     "eslint": "^0.14.1",
