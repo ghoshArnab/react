@@ -64,7 +64,7 @@
     "typescript": "^3.8.3",
     "uglify-js": "~3.8.1",
     "uglifyify": "^5.0.2",
-    "wd": "~0.2.6"
+    "wd": "~1.13.0"
   },
   "engines": {
     "node": ">=0.10.0"
