@@ -58,7 +58,7 @@
     "phantomjs": "~2.1",
     "platform": "^1.1.0",
     "populist": "~0.1.6",
-    "recast": "^0.9.11",
+    "recast": "^0.20.4",
     "sauce-tunnel": "~1.1.0",
     "tmp": "~0.2.1",
     "typescript": "^4.0.3",
